@@ -12,3 +12,5 @@ of R8 to GPIO2 on the ESP module.
 
 If anyone is interested in buying the PCB then let  me know as I'm considering creating a Tindie store to sell
 my surplus PCBs on to fund the next PCBs :-)
+
+The code for the Sensor can be found in the earlier version
